@@ -1,0 +1,17 @@
+{
+    "name": "note5019/user-service",
+    "require": {
+        "laravel/framework": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enres\\UserService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noppadon Tongtrakoon",
+            "email": "noppadon@enres.co"
+        }
+    ]
+}
